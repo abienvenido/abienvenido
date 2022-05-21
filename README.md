@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I develop software, make content and create independent projects.
+### I develop software, make content and create indie projects.
 #### About 🌏
 - I strive to keep an open mind, so my interests change over time. Right now, I'm fascinated by the idea of ​​SAAS bootstrap, like balancing productivity with creativity and being comfortable with myself.
 
