@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, my name is Álvaro 👋
+### I develop software, make content and create independent projects.
+
+I strive to keep an open mind, so my interests change over time. Right now, I'm fascinated by the idea of ​​SAAS bootstrap, like balancing productivity with creativity and being comfortable with myself.
 
 <!--
 **abienvenido/abienvenido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
