@@ -1,8 +1,15 @@
-## Hi, my name is Álvaro 👋
+## Hi there 👋
 ### I develop software, make content and create independent projects.
+#### About 🌏
+- I strive to keep an open mind, so my interests change over time. Right now, I'm fascinated by the idea of ​​SAAS bootstrap, like balancing productivity with creativity and being comfortable with myself.
 
-I strive to keep an open mind, so my interests change over time. Right now, I'm fascinated by the idea of ​​SAAS bootstrap, like balancing productivity with creativity and being comfortable with myself.
-
+#### Current Interests 🌱
+- **[React](https://reactjs.org)**
+- **[Typescript](https://www.typescriptlang.org/)**
+- **[Tailwind CSS](https://tailwindcss.com)**
+- Graph Theory
+- Compiler Design
+- Generic Programming
 <!--
 **abienvenido/abienvenido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
