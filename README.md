@@ -9,9 +9,9 @@
 - **[Tailwind CSS](https://tailwindcss.com)**
 - **[PHP](https://www.php.net/manual/es/intro-whatis.php)**
 - **[Python](https://www.python.org/doc/)**
-- [Graph Theory](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_grafos)
-- [Social Network Analysis (SNA)](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_redes_sociales)
-- Generic Programming
+- **[Graph Theory](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_grafos)**
+- **[Social Network Analysis (SNA)](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_redes_sociales)**
+- **Generic Programming**
 <!--
 **abienvenido/abienvenido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
